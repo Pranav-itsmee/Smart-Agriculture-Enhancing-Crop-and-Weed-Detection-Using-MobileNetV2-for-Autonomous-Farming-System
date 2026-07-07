@@ -1,4 +1,4 @@
-# Hybrid-Ensemble-Learning-for-Autism-Spectrum-Disorder-Detection-Using-Autoencoders-and-Classifiers
+# Smart-Agriculture-Enhancing-Crop-and-Weed-Detection-Using-MobileNetV2-for-Autonomous-Farming-System
 
 This repository contains a small computer vision workflow for agricultural image analysis. It includes:
 
